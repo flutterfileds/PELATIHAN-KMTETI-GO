@@ -1,0 +1,15 @@
+// HINT 1: Gunakan slice dengan tipe Book untuk menyimpan kumpulan buku
+
+// HINT 2: Struct yang dibuat akan berbentuk seperti berikut
+Transaction{
+  Total: XXX,
+  Date:  "XXX",
+  Books: []Book{
+    {
+      Title:      "XXX",
+      BookWriter: "XXX",
+      Price:      XXX,
+      Count:      XXX,
+    },
+  },
+}
